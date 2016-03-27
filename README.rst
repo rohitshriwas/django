@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/rohitshriwas/django.svg?branch=ka_backports/1.8.11
+    :target: https://travis-ci.org/rohitshriwas/django
+
 Django is a high-level Python Web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
 
